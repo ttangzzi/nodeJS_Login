@@ -1,3 +1,5 @@
+// model
+
 "use strict";
 
 class UserStorage {
